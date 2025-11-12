@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Backend Engineer (Python)",
+    "jd": "We are seeking a Backend Engineer with experience in Python, REST APIs, SQL databases (Postgres), working knowledge of cloud services and microservices architecture. Responsibilities: build and maintain REST APIs, write unit tests, debug and optimize performance. Skills: Python, Flask / FastAPI, SQL, Docker."
+  },
+  {
+    "title": "QA Engineer",
+    "jd": "QA engineer responsible for automation and manual testing, experience in Selenium, Cypress, test-case design, API testing, and familiarity with CI/CD pipelines."
+  }
+]
