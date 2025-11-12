@@ -1,0 +1,21 @@
+frontend/
+├─ package.json
+├─ next.config.js
+├─ .env.example
+├─ README.md
+├─ pages/
+│  ├─ _app.js
+│  ├─ index.js
+│  ├─ recruiter/
+│  │  └─ generate.js
+│  ├─ candidate/
+│  │  └─ take/
+│  │     └─ [id].js
+│  └─ api/
+│     └─ health.js
+├─ components/
+│  ├─ Layout.js
+│  ├─ CodeEditor.js
+│  └─ Navbar.js
+└─ public/
+   └─ sample_jds.json
